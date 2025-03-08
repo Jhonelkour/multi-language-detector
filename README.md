@@ -23,7 +23,7 @@ Ensure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/multi-language-detector.git
+   git clone https://github.com/Jhonelkour/multi-language-detector.git
    cd multi-language-detector
    ```
 2. vInstall dependencies:
